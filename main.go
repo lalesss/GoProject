@@ -1,8 +1,7 @@
-package mian 
+package main
 
-import "fat"
+import "fmt"
 
 func main() {
-fat.printlnt("ghello wor")
-
+	fmt.Println("Hello World")
 }
